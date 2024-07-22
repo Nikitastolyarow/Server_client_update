@@ -1,0 +1,14 @@
+
+x
+java:S1141"5Extract this nested try block into a separate method.(ıê­œ8Ñ›ïÕ2J$3c1d8633-b22f-401b-8056-d87b28622322
+j
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Ò›ïÕ2J$4fc446e4-4852-4535-9c6b-0c8e54145ed0
+	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ò›ïÕ2J$a91d3bd7-80e5-4bab-9bef-41bd467295b8
+r	java:S106
+"+Replace this use of System.out by a logger.(‹ö•Îÿÿÿÿÿ8Õ›ïÕ2J$1de511a3-e067-4323-ba06-044d6c1bc449
+r	java:S106"+Replace this use of System.out by a logger.(†ÿÑ¼ÿÿÿÿÿ8Ø›ïÕ2J$10f7e28b-48ad-40de-88aa-09833253cbde
+m	java:S106"+Replace this use of System.out by a logger.(«‹Îõ8Ø›ïÕ2J$e4aba0b2-98eb-41c7-87eb-45f123d78de7
+h
+java:S3457""%String contains no format specifiers.(ÌÌ¼’8ÜÔóÕ2J$b500536a-2f9f-4105-a03c-b9ca0ff67a3e
+m
+java:S3457#"%String contains no format specifiers.(„ª«ºúÿÿÿÿ8îôÕ2J$d9f6c7a2-6ef9-4547-a2e6-3ad5e1216e40
